@@ -1,6 +1,6 @@
 ![logo](https://github.com/MohdHadi72/MohdHadi72/blob/main/1703375435325%5B1%5D.jpg)
-<h1 align="center">Hello World / 😎 Mohd Hadi Zaidi</h1>
-<h3 align="center">I'M developer from India</h3>
+<h1 align="center"> # Hello World / 😎 Mohd Hadi Zaidi</h1>
+<h3 align="center" style="color:red"> # I'M developer from India</h3>
 
 <img  width="390" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="rigth;">
 
