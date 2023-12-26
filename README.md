@@ -2,8 +2,6 @@
 <h1 align="center"> # Hello World / 😎 Mohd Hadi Zaidi</h1>
 <h3 align="center" style="color:red"> # I'M developer from India</h3>
 
-<img  width="340" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="rigth;">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdhadi72&label=Profile%20views&color=0e75b6&style=flat" alt="mohdhadi72" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://x.com/mr_x__zaidi?t=djyctbc9izizd0deplymgg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/mr_x__zaidi?t=djyctbc9izizd0deplymgg&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/mr_x__zaidi?t=djyctbc9izizd0deplymgg&s=09" /></a> </p>
