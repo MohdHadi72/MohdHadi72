@@ -1,4 +1,5 @@
-![logo](https://github.com/MohdHadi72/MohdHadi72/blob/main/1703375435325%5B1%5D.jpg)
+![logo](https://github.com/MohdHadi72/MohdHadi72/assets/154020781/9672d400-fa08-4240-af80-2f1ccb10a295)
+
 <h1 align="center"> # Hello World / 😎 Mohd Hadi Zaidi</h1>
 <h3 align="center" style="color:red"> # I'M developer from India</h3>
 
