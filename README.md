@@ -3,7 +3,6 @@
 <h1 align="center"> < Hello World /></h1>
 <h3 align="center" style="color:red"> # I'M developer from India</h3>
 
-<p align="left" width="50px"> <img src="https://github.com/MohdHadi72/MohdHadi72/assets/154020781/65a73fdb-c55b-4cc3-ae62-69c4abb82a45" alt="mohdhadi72" /> </p>
 
 - 📝 I regularly write articles on [I have join Recenlty GitHub Application]
 
