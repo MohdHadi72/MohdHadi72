@@ -1,6 +1,6 @@
 ![logo](https://github.com/MohdHadi72/MohdHadi72/assets/154020781/9672d400-fa08-4240-af80-2f1ccb10a295)
 
-<h1 align="center"> # Hello World / 😎 Mohd Hadi Zaidi</h1>
+<h1 align="center"> < Hello World /></h1>
 <h3 align="center" style="color:red"> # I'M developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdhadi72&label=Profile%20views&color=0e75b6&style=flat" alt="mohdhadi72" /> </p>
