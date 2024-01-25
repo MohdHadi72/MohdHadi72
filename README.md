@@ -1,6 +1,6 @@
 ![today](https://github.com/MohdHadi72/MohdHadi72/assets/154020781/241b7efa-fd3e-4479-b40d-d86333abbfc8)
 
-<h1 align="center" style="color:red; font-weight: 700;"><?php Hello World ?></h1>
+<h1 align="center" style="color:red; font-weight: 700;"> Hello World </h1>
 <h3 align="center">I'M developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdhadi72&label=Profile%20views&color=0e75b6&style=flat" alt="mohdhadi72" /> </p>
