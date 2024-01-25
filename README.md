@@ -1,6 +1,6 @@
 ![today](https://github.com/MohdHadi72/MohdHadi72/assets/154020781/241b7efa-fd3e-4479-b40d-d86333abbfc8)
 
-<h1 align="center"><?php Hello World ?></h1>
+<h1 align="center">< Hello World /></h1>
 <h3 align="center">I'M developer from India</h3>
 
 - 📝 I regularly write articles on [I have join Recenlty GitHub Application](I have join Recenlty GitHub Application)
