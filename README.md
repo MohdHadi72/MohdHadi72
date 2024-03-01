@@ -1,9 +1,7 @@
 ![today](https://github.com/MohdHadi72/MohdHadi72/assets/154020781/241b7efa-fd3e-4479-b40d-d86333abbfc8)
 
-<h1 align="center">Hello World, I"M Mohd Hadi Zaidi</h1>
+<h1 align="center">MySelf Mohd Hadi </h1>
 <h3 align="center">I'M developer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/mr_x__zaidi?t=djyctbc9izizd0deplymgg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/mr_x__zaidi?t=djyctbc9izizd0deplymgg&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/mr_x__zaidi?t=djyctbc9izizd0deplymgg&s=09" /></a> </p>
 
 - 📝 I regularly write articles on [I have join Recenlty GitHub Application](I have join Recenlty GitHub Application)
 
